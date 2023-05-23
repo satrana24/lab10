@@ -1,0 +1,11 @@
+book - книга
+paper - бумага
+software - программное обеспечение
+input - входные данные
+output - выходные данные
+cat -      кошка
+purpose - цель
+to make - делать, создавать, изготавливать
+manufacturing - изготавливать
+to create - создавать
+equipment - оборудование
